@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://mylearnit.github.io',
                 'git_url': 'https://github.com/mylearnit/py2html',
                 'lib_path': 'py2html'},
-  'syms': {'py2html.core': {'py2html.core.foo': ('core.html#foo', 'py2html/core.py')}}}
+  'syms': {'py2html.core': {'py2html.core.say_hello': ('core.html#say_hello', 'py2html/core.py')}}}
