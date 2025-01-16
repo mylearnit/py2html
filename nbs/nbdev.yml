@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "py2html"
+  site-url: "https://mylearnit.github.io/py2html"
+  description: "Python to HTML"
+  repo-branch: main
+  repo-url: "https://github.com/mylearnit/py2html"
