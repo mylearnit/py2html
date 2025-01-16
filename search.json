@@ -1,0 +1,32 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "py2html",
+    "section": "",
+    "text": "# by following the tutorial https://nbdev.fast.ai/tutorials/tutorial.html\n$ pip install nbdev\n# create an empty repo and clone it\n$ git clone git@github.com:mylearnit/py2html.git\n$ cd py2html\n# Initialise your nbdev repo by entering:\n$ nbdev_new\n# now commit and push the changes\nIf you are new to using nbdev here are some useful pointers to get you started.\n\n\n# make sure py2html package is installed in development mode\n$ pip install -e .\n# or \n$ pip install git+https://github.com/mylearnit/py2html.git\n\n# make changes under nbs/ directory\n# ...\n\n# compile to have changes apply to py2html\n$ nbdev_prepare",
+    "crumbs": [
+      "py2html"
+    ]
+  },
+  {
+    "objectID": "index.html#developer-guide",
+    "href": "index.html#developer-guide",
+    "title": "py2html",
+    "section": "",
+    "text": "# by following the tutorial https://nbdev.fast.ai/tutorials/tutorial.html\n$ pip install nbdev\n# create an empty repo and clone it\n$ git clone git@github.com:mylearnit/py2html.git\n$ cd py2html\n# Initialise your nbdev repo by entering:\n$ nbdev_new\n# now commit and push the changes\nIf you are new to using nbdev here are some useful pointers to get you started.\n\n\n# make sure py2html package is installed in development mode\n$ pip install -e .\n# or \n$ pip install git+https://github.com/mylearnit/py2html.git\n\n# make changes under nbs/ directory\n# ...\n\n# compile to have changes apply to py2html\n$ nbdev_prepare",
+    "crumbs": [
+      "py2html"
+    ]
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nsay_hello\n\n say_hello (to)\n\nSay hello to somebody",
+    "crumbs": [
+      "core"
+    ]
+  }
+]
